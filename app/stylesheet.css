@@ -1,0 +1,32 @@
+/*
+ * Confirmation and Config Window Styles
+ */
+
+.confirmWindow
+{
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+}
+.confirmWindow .icon
+{
+	width: 64px;
+	height: 64px;
+	float: left;
+	background: url(../icon.png) center center no-repeat;
+	margin-right: 5px;
+}
+.confirmWindow .header
+{
+	padding-left: 10px;
+	padding-right: 5px;
+	font-size: 18px;
+	font-weight: bold;
+	border-bottom: 1px solid #000;
+}
+.confirmWindow .message
+{
+	padding-left: 10px;
+	padding-right: 5px;
+	font-size: 16px;
+}

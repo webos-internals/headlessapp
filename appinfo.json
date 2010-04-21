@@ -1,0 +1,18 @@
+{
+	"title": "HeadlessApp Example",
+	"id": "org.webosinternals.hewadlessapp",
+	"version": "0.0.1",
+	"release_date":	"20-Apr-2010",
+	"vendor": "WebOS Internals",
+	"vendor_email":	"support@webos-internals.org",
+	"type": "web",
+	"main": "index.html",
+	"icon": "icon.png",
+	"noWindow": true,
+	"theme" : "light",
+	"noDeprecatedStyles": true,
+	
+	"popupHeight": 150,
+	"popupMessage": "You need to replace this message in the appinfo.json with information this package.",
+	"popupButton": "Ok."
+}
