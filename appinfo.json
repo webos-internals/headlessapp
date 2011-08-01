@@ -1,8 +1,8 @@
 {
 	"title": "HeadlessApp Example",
 	"id": "org.webosinternals.headlessapp",
-	"version": "0.0.2",
-	"release_date":	"20-Apr-2010",
+	"version": "0.2.0",
+	"release_date":	"1-Aug-2010",
 	"vendor": "WebOS Internals",
 	"vendor_email":	"support@webos-internals.org",
 	"type": "web",
@@ -11,6 +11,7 @@
 	"noWindow": true,
 	"theme": "light",
 	"noDeprecatedStyles": true,
+	"uiRevision": 2,
 
 
 	"message": "This is the message",
